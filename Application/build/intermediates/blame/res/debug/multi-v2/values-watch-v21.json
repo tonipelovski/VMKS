@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/theking/BluetoothLeGatt2/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/theking/.gradle/caches/transforms-2/files-2.1/d1349147c23c6597cdecc24e0a0c2b26/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
